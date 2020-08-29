@@ -6,7 +6,7 @@ Started my graduation at UFRGS and always believed I would become an engineer wi
 
 You can know more about me visiting my LinkedIn profile.
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/lucas-bianco-garcia-da-silva/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bianco-garcia-da-silva/)
 
 And more about my programming carrer here, on GitHub...
 
