@@ -12,15 +12,15 @@ And more about my programming carrer here, on GitHub...
 
 ### 🙋🏽‍♂️ My Projects
 
-I choose Flutter to develope my own app from scrach. It's a group expenses controling app which I call [Group Expenses](https://github.com/lucasbiancogs/groupExpenses) (I know, not a really creative name). It aims to control users own and group expenses where you can undestand how is your family doing, your housemates or whatever group you're in, have a global picture of it's expenses, who is expending money and where.
+I choose Flutter to develope my own app from scratch. It's a group expenses controling app which I call [Group Expenses](https://github.com/lucasbiancogs/groupExpenses) (I know, not a really creative name). It aims to control users own and group expenses where you can undestand how is your family doing, your housemates or whatever group you're in, have a global picture of it's expenses, who is expending money and where.
 
 ### 🎯 Flutter
 
 My course ended with [Shop](https://github.com/lucasbiancogs/shop) app, an e-commerce using Firebase. It also introduced me to Inherited Widgets and a great global state manager: Provider.
 
-The [Meals](https://github.com/lucasbiancogs/meals) app introduced me to various flutter navigations and culinaries recipies, thanks cod3r.
+The [Meals](https://github.com/lucasbiancogs/meals) app introduced me to various flutter navigations and to culinaries recipies, thank you cod3r.
 
-[Expenses](https://github.com/lucasbiancogs/expenses) was the first app presented to me and it was great to understand the framework. It used a lot of adpatation between OS and phone orientation.
+[Expenses](https://github.com/lucasbiancogs/expenses) was the first app presented to me and it was great to understand the framework. It used a lot of adpatation between OS and between phone orientation.
 
 Since I loved what I could become, I began to search for more and found Flutter. Learning [Dart](https://github.com/lucasbiancogs/dart) and how to use the framework was a really nice experience.
 
