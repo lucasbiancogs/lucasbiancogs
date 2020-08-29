@@ -12,7 +12,7 @@ And more about my programming carrer here, on GitHub...
 
 ### 🙋🏽‍♂️ My Projects
 
-I choose Flutter to develope my own app from scrach. It's a group expenses controling app which I call [Group Expenses](https://github.com/lucasbiancogs/groupExpenses) (I know, not a really creative name). It aims to control users own and group expenses, where you can undestand how is your family going, or your housemates, have a global picture of your expenses, who is expending money and where.
+I choose Flutter to develope my own app from scrach. It's a group expenses controling app which I call [Group Expenses](https://github.com/lucasbiancogs/groupExpenses) (I know, not a really creative name). It aims to control users own and group expenses, where you can undestand how is your family or your housemates or whatever group you're in are going, have a global picture of it's expenses, who is expending money and where.
 
 ### 🎯 Flutter
 
