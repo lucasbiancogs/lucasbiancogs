@@ -2,7 +2,7 @@
 
 I'm a junior mobile developer and a mechanical engineering student fascinated by coding.
 
-Started my graduation at UFRGS and always believed I would become an engineer with programming skils. Well, today I expect to be a developer with engineering skills.
+I started my graduation at UFRGS and always believed I would become an engineer with programming skils. Well, today I expect to be a developer with engineering skills.
 
 You can know more about me visiting my LinkedIn profile.
 
