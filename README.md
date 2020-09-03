@@ -20,13 +20,13 @@ My course ended with [Shop](https://github.com/lucasbiancogs/shop) app, an e-com
 
 The [Meals](https://github.com/lucasbiancogs/meals) app introduced me to various flutter navigations and to culinaries recipies, thank you cod3r.
 
-[Expenses](https://github.com/lucasbiancogs/expenses) was the first app presented to me and it was great to understand the framework. It used a lot of adaptation between OS and between phone orientation.
+[Expenses](https://github.com/lucasbiancogs/expenses) was the first app presented to me using Flutter and it was great to understand the framework. It used a lot of adaptation between OS and between phone orientation.
 
 Since I loved what I could become, I began to search for more and found Flutter. Learning [Dart](https://github.com/lucasbiancogs/dart) and how to use the framework was a really nice experience.
 
 ### 🚀 React Native
 
-To understand users interactions the [Lambe](https://github.com/lucasbiancogs/lambe) project was a greate start. It showed me how to use Firebase and how easy it could be to interact with some API's. It was also a great introduction to global state managers like Redux. 
+To understand users interactions the [Lambe](https://github.com/lucasbiancogs/lambe) project was a great start. It showed me how to use Firebase and how easy it could be to interact with some API's. It was also a great introduction to global state managers like Redux. 
 
 I discovered I wanted to follow a developer carrer once I started to learn React Native and created my first mobile app called [Tasks](https://github.com/lucasbiancogs/tasks), with another cod3r course. It also helped to learn more about infrastructure and backend programming with it's [backend](https://github.com/lucasbiancogs/tasks-backend).
 
