@@ -1,6 +1,6 @@
 # Hi, I'm Lucas Bianco 👋
 
-I'm mobile and backend developer graduated in mechanical engineering.
+I'm a mobile and backend developer graduated in mechanical engineering.
 
 I started my graduation at UFRGS and always believed I would become an engineer with programming skils. Well, today I expect to be a developer with engineering skills.
 
