@@ -1,16 +1,18 @@
 I'm a software engineer who likes building things, understanding how they work, and figuring out better ways to build them.
 
-## What I believe
+## How I think about software
 
-🧩 **Software is a puzzle that reveals itself as you build it.** You don't need the whole picture upfront. It takes shape through building, learning, and reshaping.
+Over time, a few ideas have shaped the way I approach building software:
 
-🌱 **Start simple and let complexity earn its place.** Abstractions should solve real problems, not hypothetical ones.
+🧩 **Software feels a lot like a puzzle.** I like to understand the pieces and think carefully about how they fit together, while knowing the full picture will only become clear as the system evolves.
 
-🔨 **Building is part of thinking.** A working version often teaches you more than trying to design the perfect system beforehand.
+🌱 **I value simplicity, but not at the expense of thought.** I try to understand the problem deeply before adding concepts and abstractions, and let complexity come from real needs rather than assumptions.
 
-🔄 **Good software is built to change.** Make the best decision for what you know today without making tomorrow's decision harder.
+🔄 **I expect my understanding to change.** Decisions are made with the knowledge available today, so I try to design things that can be questioned, reshaped, and improved as I learn more.
 
-🤖 **AI should change how we build, not just how fast we type.** I'm interested in how agents can understand context, reason about software, and participate in the development process.
+⚖️ **For me, good software sits somewhere between planning and discovery.** Thinking ahead gives the work direction; building it reveals what the plan couldn't.
+
+🤖 **AI has made me rethink the development process itself.** I'm interested in more than generating code faster: how agents can share context, reason about a codebase, and participate from shaping an idea to working software.
 
 ## What I work with
 
@@ -31,8 +33,7 @@ Fastlane, automated pipelines, multi-app setups, and shipping to the App Store a
 
 ## After hours
 
-🎮 I make games in **Godot** and spend an unreasonable amount of time on procedural generation, wave function collapse, tilemaps, and procedural animation.
+🧪 I also like making games in **Godot**, experimenting with AI agents, developer tools, procedural generation, and whatever else gives me an excuse to explore something new in software.
 
-🧪 I also like experimenting with AI agents, developer tools, Blender, and whatever else looks interesting enough to become a side project.
 
 
