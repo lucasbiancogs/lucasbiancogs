@@ -1,35 +1,38 @@
-# Hi, I'm Lucas Bianco 👋
+I'm a software engineer who likes building things, understanding how they work, and figuring out better ways to build them.
 
-I'm a mobile and backend developer graduated in mechanical engineering.
+## What I believe
 
-I started my graduation at UFRGS and always believed I would become an engineer with programming skils. Well, today I expect to be a developer with engineering skills.
+🧩 **Software is a puzzle that reveals itself as you build it.** You don't need the whole picture upfront. It takes shape through building, learning, and reshaping.
 
-You can know more about me visiting my LinkedIn profile.
+🌱 **Start simple and let complexity earn its place.** Abstractions should solve real problems, not hypothetical ones.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bianco-garcia-da-silva/)
+🔨 **Building is part of thinking.** A working version often teaches you more than trying to design the perfect system beforehand.
 
-And more about my programming carrer here, on GitHub...
+🔄 **Good software is built to change.** Make the best decision for what you know today without making tomorrow's decision harder.
 
-### 🙋🏽‍♂️ My Projects
+🤖 **AI should change how we build, not just how fast we type.** I'm interested in how agents can understand context, reason about software, and participate in the development process.
 
-I chose Flutter to develope my own app from scratch. It's a group expenses controling app which I call [Group Expenses](https://github.com/lucasbiancogs/groupExpenses) (I know, not a really creative name). It aims to control users own and group expenses where you can undestand how is your family doing, your housemates or whatever group you're in, have a global picture of it's expenses, who is expending money and where.
+## What I work with
 
-### 🎯 Flutter
+📱 **Flutter / Dart**
+Where I have most of my mobile experience, building and maintaining production apps from development through release.
 
-My course ended with [Shop](https://github.com/lucasbiancogs/shop) app, an e-commerce using Firebase. It also introduced me to Inherited Widgets and a great global state manager: Provider.
+⚙️ **Node.js / TypeScript**
+APIs, backend services, integrations, authentication, realtime features, and the systems behind the apps.
 
-The [Meals](https://github.com/lucasbiancogs/meals) app introduced me to various flutter navigations and to culinaries recipies, thank you cod3r.
+🗄️ **PostgreSQL / Supabase / Firebase**
+Databases, auth, realtime data, serverless functions, and backend infrastructure.
 
-[Expenses](https://github.com/lucasbiancogs/expenses) was the first app presented to me using Flutter and it was great to understand the framework. It used a lot of adaptation between OS and between phone orientation.
+🍎 **Swift / iOS**
+Native integrations and the occasional trip below Flutter's abstraction layer.
 
-Since I loved what I could become, I began to search for more and found Flutter. Learning [Dart](https://github.com/lucasbiancogs/dart) and how to use the framework was a really nice experience.
+🚀 **CI/CD & releases**
+Fastlane, automated pipelines, multi-app setups, and shipping to the App Store and Google Play.
 
-### 🚀 React Native
+## After hours
 
-To understand users interactions the [Lambe](https://github.com/lucasbiancogs/lambe) project was a great start. It showed me how to use Firebase and how easy it could be to interact with some API's. It was also a great introduction to global state managers like Redux. 
+🎮 I make games in **Godot** and spend an unreasonable amount of time on procedural generation, wave function collapse, tilemaps, and procedural animation.
 
-I discovered I wanted to follow a developer carrer once I started to learn React Native and created my first mobile app called [Tasks](https://github.com/lucasbiancogs/tasks), with another cod3r course. It also helped to learn more about infrastructure and backend programming with it's [backend](https://github.com/lucasbiancogs/tasks-backend).
+🧪 I also like experimenting with AI agents, developer tools, Blender, and whatever else looks interesting enough to become a side project.
 
-### 🐍 Python
-I started coding at the first semester in college but here is where I truly got into this, learning how to code with a course from cod3r using python: [Python](https://github.com/lucasbiancogs/python)
 
